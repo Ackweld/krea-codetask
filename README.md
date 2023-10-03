@@ -1,3 +1,3 @@
 # krea-codetask
 
-Run the following command in terminal to run the program: "python3 bingo.py"
+Run the following command in your terminal to start the program: "python3 bingo.py"
